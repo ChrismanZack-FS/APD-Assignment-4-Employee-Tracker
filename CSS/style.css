@@ -1,0 +1,4 @@
+/* If H1 is green in live server than CSS is connected and can be delted before use */
+h1 {
+	color: green;
+}
